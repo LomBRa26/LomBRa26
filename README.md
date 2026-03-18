@@ -12,7 +12,6 @@ Sou um construtor de soluções com visão de negócio. Unindo o desenvolvimento
 - 🧩 Mentor na **D&E Consultoria e Soluções Inteligentes**.
 - ⚙️ Desenvolvedor focado em arquiteturas **SaaS Multi-tenant**.
 - 🐧 Entusiasta de **Open Source** e especialista em ecossistemas **Linux**.
-- 🎥 Criador de conteúdo no canal **Simples & Eficaz** (Foco em minimalismo e performance).
 
 ---
 
@@ -29,8 +28,12 @@ Gestão de ISP com foco em alta disponibilidade.
 - Scripts personalizados para otimização de performance de rede.
 
 ### 🎨 D&E Consultoria Digital
-Transformação digital para empresas e profissionais.
-- De sites profissionais (como o redesign da *Contabilidade Supremo*) até identidades visuais (como o projeto *Biel do Corte*).
+Transformação digital estratégica para empresas que buscam escala, profissionalismo e eficiência.
+
+* **Sistemas de Gestão (SaaS):** Desenvolvimento de plataformas robustas e escaláveis, como o **EducaSaaS** (gestão escolar) e o **Reviravida** (impacto social).
+* **Web Design & Presença:** Criação e redesign de sites focados em performance, como o novo portal da **Contabilidade Supremo**.
+* **Identidade Visual (Branding):** Criação de marcas do zero, unindo design estratégico (CorelDraw/Photoshop) com presença digital (ex: projeto **Biel do Corte**).
+* **Soluções Inteligentes:** Automação de processos e consultoria para negócios que precisam sair do amadorismo e dominar o digital.
 
 ---
 
